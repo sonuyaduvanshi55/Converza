@@ -1,2 +1,5 @@
+node_modules/
+dist/
 .env
-api/.env
+.DS_Store
+chat-app-backend/target/
